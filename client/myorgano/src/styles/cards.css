@@ -1,0 +1,9 @@
+.search-result-list
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 1 24%;
+    justify-content: space-around;
+    align-content: center;
+    
+}
